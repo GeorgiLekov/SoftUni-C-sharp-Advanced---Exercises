@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSalesman", "CarSalesman.csproj", "{EA1CBEE3-3C9D-4CD4-B78E-D160D14A010E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTrainer", "..\PokemonTrainer\PokemonTrainer.csproj", "{344CFE27-3BF6-43DF-AC30-D766AB3CEC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1CBEE3-3C9D-4CD4-B78E-D160D14A010E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1CBEE3-3C9D-4CD4-B78E-D160D14A010E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1CBEE3-3C9D-4CD4-B78E-D160D14A010E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1CBEE3-3C9D-4CD4-B78E-D160D14A010E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344CFE27-3BF6-43DF-AC30-D766AB3CEC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344CFE27-3BF6-43DF-AC30-D766AB3CEC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344CFE27-3BF6-43DF-AC30-D766AB3CEC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344CFE27-3BF6-43DF-AC30-D766AB3CEC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5194EEB8-9C29-486C-B658-FFBAF373C978}
+	EndGlobalSection
+EndGlobal
